@@ -64,7 +64,8 @@ img {  max-width: 100%;  width: 1990px; }
 
 .imagens_destaque {
     max-width: 100%; width: 250px;
-    padding: 50px;
+    padding: 55px;
+    margin: 14px 4px;
     background-color: #EBE9EA
 }
 
