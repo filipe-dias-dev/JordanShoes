@@ -61,3 +61,23 @@ img {  max-width: 100%;  width: 1990px; }
     font-weight: 500;
     color: #474747;;
 }
+
+.imagens_destaque {
+    max-width: 100%; width: 250px;
+    padding: 50px;
+}
+
+.imagens_destaques {
+    position: relative;
+    display: inline-block;
+    text-align: center;
+    align-items: center;
+    justify-content: space-between;
+    flex-direction: column;
+    height: 150px;
+    margin: 50px;
+}
+
+
+
+
