@@ -1,10 +1,28 @@
+body {
+    font-family: 'Montserrat';
+    width: 1440px auto;
+}
+
 .header_topo {
     display: flex;
     justify-content: center;
     background-color: #181818;
+    height: 60px;
+    left: 0;
+    top: 0;
 }
 
 .navegacao_topo a {
+    position: relative;
+    display: flex;    
     text-decoration: none;
     color: white;
+    align-items: center;
+    top: 15px;
+}
+
+.titulo {
+    display: flex;
+    justify-content: center;
+    background-color: #F9F9F9;;
 }
