@@ -34,6 +34,30 @@ body {
     color: #181818;
     align-items: center;
     font-size: 24px;
+    font-weight: 600;
 }
 
 img {  max-width: 100%;  width: 1990px; }
+
+.titulo_destaques {
+    display: flex;
+    position: relative;
+    flex-direction: column;
+    text-align: center;
+}
+
+.destaques {
+    font-weight: 600;
+    font-size: 28px;
+    line-height: 196.19%;
+    color: #181818;;
+}
+
+.paragrafo_destaque {
+    font-size: 16px;
+    line-height: 180%;
+    text-align: center;
+    align-items: center;
+    font-weight: 500;
+    color: #474747;;
+}
