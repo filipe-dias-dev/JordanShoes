@@ -79,6 +79,15 @@ img {  max-width: 100%;  width: 1990px; }
     height: 150px;
 }
 
+.copyrigth {
+    justify-content: center;
+    text-align: center;
+    background-color: #181818;
+    color: white;
+    margin: 20px 0 0 0;
+    padding: 15px 0 15px 0;
+}
+
 
 
 
