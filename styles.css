@@ -18,7 +18,8 @@ body {
     text-decoration: none;
     color: white;
     align-items: center;
-    top: 15px;
+    text-align: center;
+    top: 20px;
 }
 
 .section_titulo {
