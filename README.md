@@ -24,7 +24,7 @@ HTML - CSS
 - **Adicionar preço e descrição dos sapatos;**
 
 
-####Autor: 
+#### <u>Autor:</u> 
 
 Filipe Dias
 
