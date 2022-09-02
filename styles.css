@@ -40,6 +40,15 @@ body {
 
 img {  max-width: 100%;  width: 1990px; }
 
+img {
+    transition: 0.3s;
+}
+
+img:hover {
+    transform: scale(1.3);
+    transition: ease
+}
+
 .titulo_destaques {
     display: flex;
     position: relative;
