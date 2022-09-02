@@ -23,11 +23,9 @@ HTML - CSS
 
 - **Adicionar preço e descrição dos sapatos;**
 
-- **Adicionar a função hover nas imagens;**
 
-- **Alterar fonte.**
-
-  
+  Autor:
+  Filipe Dias
 
 #### <u>Status do projeto:</u>
 
