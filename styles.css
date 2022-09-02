@@ -40,13 +40,13 @@ body {
 
 img {  max-width: 100%;  width: 1990px; }
 
-img {
+.imagens_destaques {
     transition: 0.3s;
 }
 
-img:hover {
+.imagens_destaque:hover {
     transform: scale(1.3);
-    transition: ease
+    transition: cubic-bezier(0.075, 0.82, 0.165, 1)
 }
 
 .titulo_destaques {
