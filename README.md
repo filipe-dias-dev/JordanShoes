@@ -8,13 +8,14 @@ E-commerce de sapatos Jordan. **👟**
 
 Vendas de sapatos Jordan.
 
-![shoes_jordan](C:\Users\Filipe\Downloads\shoes_jordan.jpeg)
+
+![shoes_jordan](https://user-images.githubusercontent.com/97606816/188038446-253ad96e-f847-4eaf-bb27-784dae1e4384.jpeg)
 
 
 
 #### <u>Tecnologias utilizadas:</u>
 
-HTML | CSS
+HTML - CSS
 
 
 
