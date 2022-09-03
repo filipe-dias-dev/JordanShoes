@@ -1,15 +1,15 @@
 #### <u>Título:</u> 
 
-E-commerce de sapatos Jordan. **👟**
+Sapatos Jordan. **👟**
 
 
 
 #### <u>Descrição do projeto:</u>
 
-Vendas de sapatos Jordan.
+Loja de sapatos Jordan.
 
 
-![shoes_jordan](https://user-images.githubusercontent.com/97606816/188038446-253ad96e-f847-4eaf-bb27-784dae1e4384.jpeg)
+![shoesjordan](https://user-images.githubusercontent.com/97606816/188241860-e13872c3-4eba-44b6-9cde-b30ceeb5d582.jpeg)
 
 
 
@@ -23,11 +23,11 @@ HTML - CSS
 
 - **Adicionar preço e descrição dos sapatos;**
 
-- **Adicionar a função hover nas imagens;**
 
-- **Alterar fonte.**
+#### <u>Autor:</u> 
 
-  
+Filipe Dias
+
 
 #### <u>Status do projeto:</u>
 
