@@ -41,7 +41,7 @@ body {
 .img_shoes01 {
     position: relative;
     display: flex;
-    margin: 100px auto;
+    margin: 150px auto;
     justify-content: center;
     
 }
@@ -92,22 +92,22 @@ body {
 }
 
 
-.ul_tenis {
-    text-align: center;
-    position: relative;
-    flex-direction: column;
-    flex-wrap: wrap;
-    align-items: flex-end;
+/*Botão detalhes do tenis*/
+.button_compra {
+    width: 60px;
 }
 
-.ul_tenis img {
-    display: inline-block;
-
+.detalhes_tenis {
+    line-height: 29px;
 }
 
-.ul_tenis p {
-    display: inline-block;
+.detalhes_tenis h2 {
+    display: flex;
     position: relative;
-    
-    
+    font-size: 26px;
+    padding-top: 20px;
+}
+
+.detalhes_tenis h1 {
+    font-size: 26px;
 }
