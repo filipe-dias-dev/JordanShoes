@@ -41,12 +41,12 @@ body {
 img {  max-width: 100%;  width: 1990px; }
 
 .imagens_destaques {
-    transition: 0.3s;
+    transition: 0.1s;
 }
 
 .imagens_destaque:hover {
     transform: scale(1.3);
-    transition: cubic-bezier(0.075, 0.82, 0.165, 1) 5s;
+    transition: cubic-bezier(0.075, 0.82, 0.165, 1) 1s;
     background-color: #474747;
 
 }
