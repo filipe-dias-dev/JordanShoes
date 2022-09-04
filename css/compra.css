@@ -5,7 +5,7 @@ body {
 
 .header_topo {
     display: flex;
-    justify-content: center;
+    justify-content: end;
     background-color: #181818;
     height: 60px;
     left: 0;
@@ -14,7 +14,7 @@ body {
 
 .navegacao_topo a {
     position: relative;
-    display: flex;    
+    display: inline-flex;    
     text-decoration: none;
     color: white;
     align-items: center;
