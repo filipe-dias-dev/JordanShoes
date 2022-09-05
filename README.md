@@ -18,12 +18,6 @@ Loja de sapatos Jordan.
 HTML - CSS
 
 
-
-#### <u>Implementações futuras:</u>
-
-- **Adicionar preço e descrição dos sapatos;**
-
-
 #### <u>Autor:</u> 
 
 Filipe Dias
@@ -31,5 +25,5 @@ Filipe Dias
 
 #### <u>Status do projeto:</u>
 
-Em andamento.
+Concluído.
 
